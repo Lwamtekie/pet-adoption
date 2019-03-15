@@ -209,8 +209,7 @@ const pets = [
       type: "dino",
       imageUrl: "http://lsae2.iypcdn.com/static//modules/uploads/photos/language1/dino-live-22.jpg?119"
     }
-<<<<<<< HEAD
-];
+  ];
 
 const printToDom = (divId, textToPrint) => {
    const selectedDiv = document.getElementById(divId);
@@ -275,6 +274,3 @@ const init = () => {
 };
 
 init();
-=======
-  ];
->>>>>>> ebaf47b66e4453f08ec50c850ffcc06f69c33a85

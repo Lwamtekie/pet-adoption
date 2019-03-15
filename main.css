@@ -1,74 +1,66 @@
-<<<<<<< HEAD
 body {
-    background-color: aquamarine;
- }
- 
- #many-pets {
-    display: flex;
-    flex-flow: row wrap;
-    -webkit-flex-flow: row wrap;
-    justify-content: space-evenly;
-    max-width: 1000px;
- }
- 
- .pet {
-    width: 30%;
-    margin-top: 5px;
-    margin-bottom: 5px;
-    margin-left: 5px;
-    margin-right: 5px;
-    max-width: 100%;
-    border: 1px solid black;
-    text-align: center;
-    background-color: oldlace;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
- 
- }
- .pet img {
-    max-width: 75%;
-    height: auto;
- 
- }
- 
- .type {
-    /* background-color: aquamarine; */
-    align-items: center;
-    margin-top: auto;
-    width: 100%;
- }
- 
- .dino {
- background-color: lightskyblue;
- }
- 
- .dog {
-    background-color: blue;
- }
- .cat {
-    background-color: yellow;
- }
- 
- #pet-buttons {
-    text-align: center;
- }
- 
- #All {
-    background-color: olive;
- }
- #cat {
-    background-color: darkgray;
- }
- #dog {
-    background-color: darkgoldenrod;
- }
- #dino {
-    background-color: green;
- }
- 
-=======
-.body{
-    background-color: blueviolet
-};
->>>>>>> ebaf47b66e4453f08ec50c850ffcc06f69c33a85
+   background-color: antiquewhite;
+}
+
+#many-pets {
+   display: flex;
+   flex-flow: row wrap;
+   -webkit-flex-flow: row wrap;
+   justify-content: space-evenly;
+   max-width: 1000px;
+}
+
+.pet {
+   width: 30%;
+   margin-top: 5px;
+   margin-bottom: 5px;
+   margin-left: 5px;
+   margin-right: 5px;
+   max-width: 100%;
+   border: 1px solid black;
+   text-align: center;
+   background-color: gainsboro;
+   display: flex;
+   flex-direction: column;
+   align-items: center;
+
+}
+.pet img {
+   max-width: 75%;
+   height: auto;
+
+}
+
+.type {
+   align-items: center;
+   margin-top: auto;
+   width: 100%;
+}
+
+.dino {
+background-color: blue;
+}
+
+.dog {
+   background-color: burlywood;
+}
+.cat {
+   background-color: violet;
+}
+
+#pet-buttons {
+   text-align: center;
+}
+
+#All {
+   background-color: lightslategray;
+}
+#cat {
+   background-color: pink;
+}
+#dog {
+   background-color: red;
+}
+#dino {
+   background-color: greenyellow;
+}
