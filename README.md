@@ -1,1 +1,1 @@
-#pet-adoption
+In this Pet-adoption project we learned how to use index.html, main.css and main.JS together in one project. So in the index.html we put only the the four button with Div Id in the body. And all the styling and colors in the main.css. The images and all the parts of the container such as, names of the pets, color of the pets are in the main.Js. 
