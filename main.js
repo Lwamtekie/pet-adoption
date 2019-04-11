@@ -4,7 +4,7 @@ const pets = [
       color: "Green",
       specialSkill: "Gives sincere apologies.",
       type: "cat",
-      imageUrl: "http://kittentoob.com/wp-content/uploads/2015/06/funny-cat-with-a-towel.jpg"
+      imageUrl: "https://news.nationalgeographic.com/content/dam/news/2018/05/17/you-can-train-your-cat/02-cat-training-NationalGeographic_1484324.jpg"
     },
     {
       name: "Trouble",
@@ -32,7 +32,7 @@ const pets = [
       color: "Brown",
       specialSkill: "Comfortable in the outdoors for up to eight hours.",
       type: "cat",
-      imageUrl: "http://www.catster.com/wp-content/uploads/2017/08/A-fluffy-cat-looking-funny-surprised-or-concerned.jpg"
+      imageUrl: "https://i.iheart.com/v3/re/new_assets/5c49d672c0f39c3bcbab4100?ops=max(650,0),quality(80)"
     },
     {
       name: "Tiger",
@@ -81,7 +81,7 @@ const pets = [
       color: "Green",
       specialSkill: "Does not use excessive acronyms.",
       type: "dog",
-      imageUrl: "https://i.pinimg.com/originals/1f/30/8c/1f308c9c108a384b91b39430cc7312e9.jpg"
+      imageUrl: "https://i.kinja-img.com/gawker-media/image/upload/s--HqfzgkTd--/c_scale,f_auto,fl_progressive,q_80,w_800/wp2qinp6fu0d8guhex9v.jpg"
     },
     {
       name: "Chester",
@@ -130,7 +130,7 @@ const pets = [
       color: "Blue",
       specialSkill: "Listens attentively to boring stories.",
       type: "dog",
-      imageUrl: "http://dailynewsdig.com/wp-content/uploads/2014/03/Creative-And-Funny-Dog-Stock-Photography-Pictures-2.jpg"
+      imageUrl: "https://teensnowtalk.com/wp-content/uploads/2017/07/Dog-1.jpg"
     },
     {
       name: "Spooky",
@@ -200,7 +200,7 @@ const pets = [
       color: "Green",
       specialSkill: "Gives hugs with appropriate pressure and for the right length of time.",
       type: "cat",
-      imageUrl: "http://img.izismile.com/img/img2/20090219/cats_02.jpg"
+      imageUrl: "https://www.humanesociety.org/sites/default/files/styles/400x400/public/2018/06/cat-217679.jpg?h=c4ed616d&itok=H0FcH69a"
     },
     {
       name: "Lucy",
