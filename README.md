@@ -8,6 +8,8 @@ INDEX.HTML, MAIN.CSS, AND JAVASCRIPT
 
 #SCREENSHOT:
 
+![image](https://github.com/Lwamtekie/pet-adoption/blob/master/screenshot/screencapture-127-0-0-1-8083-2019-05-18-12_21_12.png)
+
 
 
 
