@@ -239,11 +239,7 @@ const petBuilder = (monkeybutts) => {
 const buttonClick = (e) => {
    const buttonId = e.target.id;
 
-   //console.log('you clicked a button', e.target.id);
-   //loop over hte pies array
-   //if value of instructor key is the same as the buttonId - keep that object
-   //once we have all the pies for that instructor - call pieBuilder
-
+   
    const selectedPets = [];
    pets.forEach((pet) => {
        if (pet.type === buttonId) {
